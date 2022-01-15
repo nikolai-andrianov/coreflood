@@ -1,4 +1,4 @@
-# History matching coreflood experiments in MRST
+# History matching of coreflood experiments in MRST
 
 This repository contains the files for the forward and inverse problem solution to the 
 coreflood simulations[^fn1].
